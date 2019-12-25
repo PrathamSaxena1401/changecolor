@@ -1,0 +1,15 @@
+{
+  "name": "jj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d colors"
+  },
+  "author": "Pratham Saxena",
+  "license": "ISC",
+  "homepage": "https://PrathamSaxena1401.github.io/changecolor",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
